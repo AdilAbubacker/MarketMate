@@ -122,4 +122,9 @@ graph TB
     class K8s,Docker,Redis,Celery,CeleryBeat infrastructure
     class Stripe,AWS external
     class Kafka,Zookeeper messaging
+
+```mermaid
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8473484a-8746-4dbe-b294-bf595b38b425" />
+
 ```
