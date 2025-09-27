@@ -1,126 +1,132 @@
-# Hey there! 👋 I'm Adil Abubacker
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=440&lines=Full-Stack+Developer;System+Architecture+Enthusiast;Knight+%40+LeetCode+%F0%9F%8F%86;Building+Scalable+Solutions" alt="Typing SVG" />
-</div>
-
-## 🚀 About Me
-
-I'm a passionate **Full-Stack Developer** who thrives on turning complex problems into elegant, scalable solutions. When I'm not architecting distributed systems or optimizing database queries, you'll find me crushing algorithms on LeetCode (Knight with 1850+ rating, top 5% globally 🏆).
-
-I believe in building software that doesn't just work—it **performs**, **scales**, and **inspires**. From microservices that handle millions of requests to real-time applications that connect people instantly, I love creating digital experiences that make a difference.
-
-### 💡 What Drives Me
-- 🏗️ **System Architecture**: Designing scalable, fault-tolerant systems that grow with your business
-- ⚡ **Performance Optimization**: Making applications lightning-fast and resource-efficient  
-- 🔄 **Problem Solving**: Breaking down complex challenges into manageable, innovative solutions
-- 📈 **Continuous Learning**: Staying ahead of the tech curve and sharing knowledge with the community
-
-## 🛠️ Tech Arsenal
-
-### **Backend Powerhouse**
-```python
-backend = {
-    "languages": ["Python", "JavaScript", "SQL"],
-    "frameworks": ["Django", "DRF", "Express"],
-    "real_time": ["WebSockets", "Django Channels"],
-    "async_processing": ["Celery", "Redis", "Apache Kafka"],
-    "authentication": ["JWT", "OAuth", "Custom Auth Systems"]
-}
-```
-
-### **Frontend Craft**
-```javascript
-const frontend = {
-    library: "React.js",
-    state_management: "Redux Toolkit",
-    styling: ["Tailwind CSS", "Bootstrap", "CSS3"],
-    build_tools: ["Webpack", "Vite"],
-    responsive_design: "Mobile-First Approach"
-}
-```
-
-### **Cloud & DevOps**
-```yaml
-infrastructure:
-  cloud: ["AWS EKS", "EC2", "S3", "EFS CSI"]
-  containers: ["Docker", "Kubernetes"]
-  databases: ["PostgreSQL", "MySQL", "Elasticsearch"]
-  monitoring: ["Performance Optimization", "99.9% Uptime"]
-  deployment: ["CI/CD", "Nginx", "Gunicorn"]
-```
-
-## 🏆 What I've Been Building
-
-### 🏠 **RentEzy** - Property Management Revolution
-*Microservices • Kafka • Kubernetes • Real-time Chat*
-
-A scalable property management platform with 10+ independent microservices. Features real-time chat, automated payments, and a concurrency-safe booking system that prevents race conditions. Deployed on AWS EKS with fault-tolerant architecture.
-
-### 📚 **LitHub** - E-commerce Excellence  
-*Django • React • PostgreSQL • Payment Integration*
-
-A full-featured e-commerce platform with advanced product discovery, dynamic variant systems, and secure payment processing. Built for scalability with comprehensive order tracking and customer wallet functionality.
-
-### 🎯 **Financial Analytics Platforms**
-*Led development at Qartelz Capitals*
-
-Architected multiple financial analytics platforms, reducing API load by 85% and refactoring 10,000+ lines into reusable components. Built normalized PostgreSQL databases enabling advanced analytics previously impossible.
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adilabubacker&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilabubacker&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adilabubacker&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-## 🏅 Achievements & Recognition
-
-- 🥇 **LeetCode Knight** - 1850+ rating (Top 5% globally)
-- 👥 **Team Leadership** - Led and mentored 3 junior developers
-- ⚡ **Performance Expert** - Achieved 85% API load reduction
-- 🏗️ **Architecture Specialist** - Designed 10+ microservices systems
-- ☁️ **Cloud Deployment** - 99.9% uptime on production systems
-
-## 🎯 LeetCode Progress
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/adhilkv313?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
-</div>
-
-## 🌟 Fun Facts About Me
-
-- 🧩 I solve algorithmic puzzles for fun (seriously!)
-- 🌍 Studied my Master's in Egypt - embracing diverse cultures fuels creativity
-- ⚡ I can refactor a 10,000-line codebase into 200 lines (and make it better!)
-- 🚀 I'm obsessed with making applications so fast they feel like magic
-- 💡 I believe every line of code should tell a story
-
-## 📫 Let's Connect & Build Something Amazing
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adilabubacker)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/adhilkv313)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adhilkv313@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adilabubacker)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=adilabubacker&style=for-the-badge&color=00d9ff" alt="Profile Views" />
-</div>
-
-<div align="center">
-  <i>💻 "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
-</div>
-
----
-
-⭐️ **If you find my projects interesting, don't forget to star them!** ⭐️
+<svg width="1000" height="700" viewBox="0 0 1000 700" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1000" height="700" fill="#f8fafc"/>
+  
+  <!-- Title -->
+  <text x="500" y="30" text-anchor="middle" font-size="24" font-weight="bold" fill="#1e293b">RentEzy - Microservices Architecture</text>
+  
+  <!-- Client Layer -->
+  <rect x="50" y="60" width="120" height="60" rx="8" fill="#3b82f6" stroke="#1e40af" stroke-width="2"/>
+  <text x="110" y="85" text-anchor="middle" font-size="12" font-weight="bold" fill="white">React Frontend</text>
+  <text x="110" y="100" text-anchor="middle" font-size="10" fill="white">Web Client</text>
+  
+  <rect x="50" y="140" width="120" height="60" rx="8" fill="#3b82f6" stroke="#1e40af" stroke-width="2"/>
+  <text x="110" y="165" text-anchor="middle" font-size="12" font-weight="bold" fill="white">Mobile App</text>
+  <text x="110" y="180" text-anchor="middle" font-size="10" fill="white">Future Client</text>
+  
+  <!-- API Gateway -->
+  <rect x="250" y="100" width="140" height="80" rx="8" fill="#10b981" stroke="#047857" stroke-width="2"/>
+  <text x="320" y="125" text-anchor="middle" font-size="14" font-weight="bold" fill="white">API Gateway</text>
+  <text x="320" y="145" text-anchor="middle" font-size="10" fill="white">Authentication</text>
+  <text x="320" y="160" text-anchor="middle" font-size="10" fill="white">Rate Limiting</text>
+  <text x="320" y="175" text-anchor="middle" font-size="10" fill="white">Routing</text>
+  
+  <!-- Authentication Service -->
+  <rect x="450" y="60" width="120" height="60" rx="8" fill="#f59e0b" stroke="#d97706" stroke-width="2"/>
+  <text x="510" y="85" text-anchor="middle" font-size="12" font-weight="bold" fill="white">Auth Service</text>
+  <text x="510" y="100" text-anchor="middle" font-size="10" fill="white">JWT & OAuth</text>
+  
+  <!-- Core Business Services -->
+  <rect x="450" y="140" width="120" height="60" rx="8" fill="#8b5cf6" stroke="#7c3aed" stroke-width="2"/>
+  <text x="510" y="165" text-anchor="middle" font-size="12" font-weight="bold" fill="white">Property Service</text>
+  <text x="510" y="180" text-anchor="middle" font-size="10" fill="white">CRUD Operations</text>
+  
+  <rect x="450" y="220" width="120" height="60" rx="8" fill="#8b5cf6" stroke="#7c3aed" stroke-width="2"/>
+  <text x="510" y="245" text-anchor="middle" font-size="12" font-weight="bold" fill="white">Booking Service</text>
+  <text x="510" y="260" text-anchor="middle" font-size="10" fill="white">Concurrency Safe</text>
+  
+  <rect x="450" y="300" width="120" height="60" rx="8" fill="#8b5cf6" stroke="#7c3aed" stroke-width="2"/>
+  <text x="510" y="325" text-anchor="middle" font-size="12" font-weight="bold" fill="white">Rent Service</text>
+  <text x="510" y="340" text-anchor="middle" font-size="10" fill="white">Payment Logic</text>
+  
+  <!-- Communication Services -->
+  <rect x="600" y="140" width="120" height="60" rx="8" fill="#ec4899" stroke="#db2777" stroke-width="2"/>
+  <text x="660" y="165" text-anchor="middle" font-size="12" font-weight="bold" fill="white">Chat Service</text>
+  <text x="660" y="180" text-anchor="middle" font-size="10" fill="white">WebSocket</text>
+  
+  <rect x="600" y="220" width="120" height="60" rx="8" fill="#ec4899" stroke="#db2777" stroke-width="2"/>
+  <text x="660" y="245" text-anchor="middle" font-size="12" font-weight="bold" fill="white">Notification</text>
+  <text x="660" y="260" text-anchor="middle" font-size="10" fill="white">Real-time Events</text>
+  
+  <!-- Search Service -->
+  <rect x="750" y="140" width="120" height="60" rx="8" fill="#06b6d4" stroke="#0891b2" stroke-width="2"/>
+  <text x="810" y="165" text-anchor="middle" font-size="12" font-weight="bold" fill="white">Search Service</text>
+  <text x="810" y="180" text-anchor="middle" font-size="10" fill="white">Elasticsearch</text>
+  
+  <!-- Message Queue -->
+  <rect x="450" y="400" width="270" height="60" rx="8" fill="#ef4444" stroke="#dc2626" stroke-width="2"/>
+  <text x="585" y="425" text-anchor="middle" font-size="14" font-weight="bold" fill="white">Apache Kafka</text>
+  <text x="585" y="445" text-anchor="middle" font-size="11" fill="white">Event Streaming & Async Communication</text>
+  
+  <!-- Background Processing -->
+  <rect x="250" y="400" width="140" height="60" rx="8" fill="#7c3aed" stroke="#6d28d9" stroke-width="2"/>
+  <text x="320" y="425" text-anchor="middle" font-size="12" font-weight="bold" fill="white">Celery Workers</text>
+  <text x="320" y="445" text-anchor="middle" font-size="10" fill="white">Background Tasks</text>
+  
+  <!-- Cache -->
+  <rect x="750" y="400" width="120" height="60" rx="8" fill="#f97316" stroke="#ea580c" stroke-width="2"/>
+  <text x="810" y="425" text-anchor="middle" font-size="12" font-weight="bold" fill="white">Redis Cache</text>
+  <text x="810" y="445" text-anchor="middle" font-size="10" fill="white">Session & Cache</text>
+  
+  <!-- Databases -->
+  <rect x="200" y="520" width="120" height="60" rx="8" fill="#374151" stroke="#1f2937" stroke-width="2"/>
+  <text x="260" y="545" text-anchor="middle" font-size="12" font-weight="bold" fill="white">PostgreSQL</text>
+  <text x="260" y="560" text-anchor="middle" font-size="10" fill="white">Main Database</text>
+  
+  <rect x="350" y="520" width="120" height="60" rx="8" fill="#374151" stroke="#1f2937" stroke-width="2"/>
+  <text x="410" y="545" text-anchor="middle" font-size="12" font-weight="bold" fill="white">Property DB</text>
+  <text x="410" y="560" text-anchor="middle" font-size="10" fill="white">PostgreSQL</text>
+  
+  <rect x="500" y="520" width="120" height="60" rx="8" fill="#374151" stroke="#1f2937" stroke-width="2"/>
+  <text x="560" y="545" text-anchor="middle" font-size="12" font-weight="bold" fill="white">Booking DB</text>
+  <text x="560" y="560" text-anchor="middle" font-size="10" fill="white">PostgreSQL</text>
+  
+  <rect x="650" y="520" width="120" height="60" rx="8" fill="#374151" stroke="#1f2937" stroke-width="2"/>
+  <text x="710" y="545" text-anchor="middle" font-size="12" font-weight="bold" fill="white">Elasticsearch</text>
+  <text x="710" y="560" text-anchor="middle" font-size="10" fill="white">Search Index</text>
+  
+  <!-- External Services -->
+  <rect x="50" y="400" width="120" height="60" rx="8" fill="#059669" stroke="#047857" stroke-width="2"/>
+  <text x="110" y="425" text-anchor="middle" font-size="12" font-weight="bold" fill="white">Stripe API</text>
+  <text x="110" y="445" text-anchor="middle" font-size="10" fill="white">Payments</text>
+  
+  <!-- Infrastructure -->
+  <rect x="50" y="620" width="800" height="40" rx="8" fill="#1f2937" stroke="#374151" stroke-width="2"/>
+  <text x="450" y="640" text-anchor="middle" font-size="14" font-weight="bold" fill="white">AWS EKS (Kubernetes) + Docker Containers + EFS Storage</text>
+  
+  <!-- Connection Lines -->
+  <!-- Client to API Gateway -->
+  <line x1="170" y1="90" x2="250" y2="140" stroke="#64748b" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="170" y1="170" x2="250" y2="140" stroke="#64748b" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- API Gateway to Services -->
+  <line x1="390" y1="120" x2="450" y2="90" stroke="#64748b" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="390" y1="140" x2="450" y2="170" stroke="#64748b" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="390" y1="160" x2="450" y2="250" stroke="#64748b" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="390" y1="140" x2="600" y2="170" stroke="#64748b" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="390" y1="160" x2="750" y2="170" stroke="#64748b" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- Services to Kafka -->
+  <line x1="510" y1="200" x2="550" y2="400" stroke="#64748b" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="510" y1="280" x2="570" y2="400" stroke="#64748b" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="660" y1="280" x2="620" y2="400" stroke="#64748b" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- Services to Databases -->
+  <line x1="510" y1="200" x2="410" y2="520" stroke="#64748b" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="510" y1="280" x2="560" y2="520" stroke="#64748b" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="810" y1="200" x2="710" y2="520" stroke="#64748b" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- External connections -->
+  <line x1="250" y1="430" x2="170" y2="430" stroke="#64748b" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <line x1="750" y1="430" x2="810" y2="430" stroke="#64748b" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- Arrow marker definition -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#64748b"/>
+    </marker>
+  </defs>
+  
+  <!-- Legend -->
+  <text x="50" y="680" font-size="12" font-weight="bold" fill="#1e293b">🔄 Event-Driven Architecture | 🔒 JWT Authentication | 📊 Real-time Analytics | 🚀 Auto-scaling on Kubernetes</text>
+</svg>
