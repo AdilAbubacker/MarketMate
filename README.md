@@ -1,70 +1,57 @@
-# Getting Started with Create React App
+# Hello, World! 👋 I'm Adil Abubacker
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin)
+[![LeetCode](https://img.shields.io/badge/LeetCode-550%2B_Problems-orange)](https://leetcode.com/your-leetcode)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-green)](https://your-portfolio-url.com)
 
-## Available Scripts
+## 🚀 About Me
 
-In the project directory, you can run:
+Full Stack Developer by day, problem-solving addict by night. I architect scalable systems that make both users and developers smile. With a foundation built on 550+ LeetCode problems and a passion for clean, efficient code, I transform complex challenges into elegant solutions.
 
-### `yarn start`
+When I'm not refactoring 10,000-line codebases into neat 200-line components, you might find me orchestrating microservices like a tech conductor or optimizing database queries for that extra millisecond of performance.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## 💻 Tech Arsenal
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+```
+⚡ Frontend: React, Redux Toolkit, Tailwind CSS, Bootstrap
+🛠️ Backend: Django, DRF, Celery, Django Channels, WebSockets, REST API, JWT
+🏗️ Infrastructure: Docker, Kubernetes, AWS (EKS, EC2, EFS, S3)
+📊 Data: PostgreSQL, Elasticsearch, MySQL, Redis
+🔄 Microservices: Apache Kafka
+🔤 Languages: Python, JavaScript, SQL, HTML, CSS
+```
 
-### `yarn test`
+## 🏆 Highlights
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Led development of a financial analysis platform, slashing API load by 85%
+- Engineered a microservices architecture with 10+ independently scalable services
+- Built concurrency-safe booking systems with transactional locking
+- Implemented real-time notification systems with WebSockets
+- Containerized applications with Docker & deployed on Kubernetes
 
-### `yarn build`
+## 🌟 Featured Projects
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### [RentEzy](https://github.com/your-username/RentEzy)
+Property management platform built on microservices architecture with Kafka for async communication, featuring real-time notifications, automated payment systems, and Elasticsearch-powered search.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### [LitHub](https://github.com/your-username/LitHub)
+E-commerce platform for literature with advanced product discovery, dynamic variant selection, and integrated payment processing.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### [StreamVista](https://github.com/your-username/StreamVista)
+Responsive streaming interface built with React, featuring dynamic content sliders and trailer playback.
 
-### `yarn eject`
+## 📈 GitHub Stats
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+![Adil's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🧠 Current Focus
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Currently diving deeper into distributed systems design and exploring the fascinating world of real-time data processing. Always looking for the next technical challenge that makes me think, "This is going to be fun!"
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## 📫 Let's Connect
 
-## Learn More
+Got an interesting project or just want to talk tech? Reach out to me at adhilkv313@gmail.com!
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+*"Clean code always looks like it was written by someone who cares." — Robert C. Martin*
